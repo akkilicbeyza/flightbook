@@ -31,7 +31,7 @@ Bu proje, modern ve kullanıcı dostu bir uçak rezervasyon sistemi sunmaktadır
 
 1. Projeyi klonlayın:
 \`\`\`bash
-git clone https://github.com/kullaniciadi/ucak-rezervasyon-sistemi.git
+git clone https://github.com/akkilicbeyza/flightbook.git
 \`\`\`
 
 2. Proje dizinine gidin:
@@ -94,19 +94,8 @@ yarn build
 4. Branch'inizi push edin (\`git push origin feature/amazing-feature\`)
 5. Bir Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
 ## 👥 İletişim
 
-Proje Sahibi - [@github_kullaniciadiniz](https://github.com/kullaniciadiniz)
+Proje Sahibi - [@github_akkilicbeyza](https://github.com/akkilicbeyza)
 
-Proje Linki: [https://github.com/kullaniciadiniz/ucak-rezervasyon-sistemi](https://github.com/kullaniciadiniz/ucak-rezervasyon-sistemi)
-
-## 🙏 Teşekkürler
-
-- [Next.js](https://nextjs.org/)
-- [Vercel](https://vercel.com/)
-- [Shadcn/ui](https://ui.shadcn.com/)
-- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+Proje Linki: [[https://github.com/kullaniciadiniz/ucak-rezervasyon-sistemi](https://github.com/kullaniciadiniz/ucak-rezervasyon-sistemi)](https://github.com/akkilicbeyza/flightbook.git)
